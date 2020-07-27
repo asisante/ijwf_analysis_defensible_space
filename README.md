@@ -1,6 +1,6 @@
 # IJWF Article Analysis Files 
 
-This is the STATA files associated with the International Journal of Wildland Fire article titled, "Understanding Homeowners’ Decisions to Mitigate Wildfire Risk and Create Defensible Space: Evidence from Nevada". This analysis used Probit regression models to determine the underlying motivators behind a homeowners' decision to create and maintain defensible space in Nevada. 
+These are the STATA files associated with the International Journal of Wildland Fire article titled, "Understanding Homeowners’ Decisions to Mitigate Wildfire Risk and Create Defensible Space: Evidence from Nevada". This analysis used Probit regression models to determine the underlying motivators behind a homeowners' decision to create and maintain defensible space in Nevada. 
 
 ### Abstract 
 
