@@ -20,3 +20,6 @@ This article makes four contributions to the literature. First, we are able to a
 
 The remainder of this article is structured as follows. Section 2 develops a theoretical model of a homeowner's fire-safe investment decision. Second 3 describes the data. Section 4 presents and discusses the empirical results. Second 5 discusses the implications of the results for wildland fire policy in WUI communities, as well as directions for future research.
 
+### Final Document 
+
+The final manuscript for the International Journal of Wildland Fire was adapted from the original Master's thesis. The file in this repository `Money_to_burn_thesis` is the original manuscript. 
